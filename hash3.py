@@ -1,4 +1,5 @@
-# 해쉬 위장 1번째 풀이: 런타임 에러 겁나나는 쓰레기 답..
+# 위장
+# 런타임 에러 겁나나는 쓰레기 답..
 
 from itertools import combinations
 def solution(clothes):
